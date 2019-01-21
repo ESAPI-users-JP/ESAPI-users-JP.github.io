@@ -1,5 +1,6 @@
 theme: jekyll-theme-cayman
 title: ESAPI-users-JP
+description: Eclipse Scripting APIに関する情報共有を目的として、ESAPIユーザー会が作成しているWebページです。
 github:
   is_project_page: true
   repository_url: https://github.com/ESAPI-users-JP
