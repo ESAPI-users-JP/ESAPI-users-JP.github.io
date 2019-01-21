@@ -1,4 +1,5 @@
 theme: jekyll-theme-cayman
 title: ESAPI-users-JP
 github:
+  is_project_page: true
   repository_url: https://github.com/ESAPI-users-JP
