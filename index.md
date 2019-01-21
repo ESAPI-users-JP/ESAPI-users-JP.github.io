@@ -6,5 +6,5 @@
 
 ## 関連情報
 
-- アメリカVarian社によるサイト
+- アメリカVarian社によるESAPIサイト
   [https://github.com/VarianAPIs](https://github.com/VarianAPIs)
