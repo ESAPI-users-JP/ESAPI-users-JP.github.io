@@ -6,5 +6,7 @@
 
 ## 関連情報
 
-- アメリカVarian社によるESAPIサイト
+- ESAPIユーザー会のGitHubページ
+  [https://github.com/ESAPI-users-JP](https://github.com/ESAPI-users-JP)
+- アメリカVarian社によるESAPIに関するGitHubページ
   [https://github.com/VarianAPIs](https://github.com/VarianAPIs)
