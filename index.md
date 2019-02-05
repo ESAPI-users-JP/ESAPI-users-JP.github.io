@@ -8,28 +8,28 @@
 
 ### Webサイト
 
-- ESAPIユーザー会のGitHubページ（本ページ）
+- ESAPIユーザー会のGitHubページ（本ページ）  
   [https://github.com/ESAPI-users-JP](https://github.com/ESAPI-users-JP)
-- Varian社によるESAPIに関するGitHubページ（英語）
+- Varian社によるESAPIに関するGitHubページ（英語）  
   [https://github.com/VarianAPIs](https://github.com/VarianAPIs)
-- ユーロメディテック社のGitHubページ（日本語）
+- ユーロメディテック社のGitHubページ（日本語）  
   [https://github.com/EuroMediTech](https://github.com/EuroMediTech)
-- MEDPHYS FILES内の公開ライブラリ（英語）
+- MEDPHYS FILES内の公開ライブラリ（英語）  
   [Automated Plan DVH Comparison for Eclipse](http://www.medphysfiles.com/index.php?name=Downloads&file=details&id=130)
-- Rex CardanさんのGitHubページ（英語）
+- Rex CardanさんのGitHubページ（英語）  
   [https://github.com/rexcardan](https://github.com/rexcardan)
-- Carlos Andersonさんのブログ（英語）
+- Carlos Andersonさんのブログ（英語）  
   [https://www.carlosjanderson.com/category/esapi/](https://www.carlosjanderson.com/category/esapi/)
 
 ### 動画
 
-- Rex CardanさんのYouTube動画（英語）
+- Rex CardanさんのYouTube動画（英語）  
   [https://www.youtube.com/user/rexcardan/videos](https://www.youtube.com/user/rexcardan/videos)
-- MyVarian Webinar（英語）
-  (Events => WebinarsからScriptingで検索)
+- MyVarian Webinar（英語）  
+  (Events => WebinarsからScriptingで検索)  
   [https://www.myvarian.com](https://www.myvarian.com)
 
 ### 書籍
 
-- The Varian API Handbook（英語）
+- The Varian API Handbook（英語）  
   [https://varian.app.box.com/v/Varian-API-Book](https://varian.app.box.com/v/Varian-API-Book)
