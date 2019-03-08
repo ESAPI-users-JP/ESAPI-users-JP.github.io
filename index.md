@@ -32,4 +32,4 @@
 ### 書籍
 
 - The Varian API Handbook（英語）  
-  [https://varian.app.box.com/v/Varian-API-Book](https://varian.app.box.com/v/Varian-API-Book)
+  [https://github.com/VarianAPIs/VarianAPIs.github.io/raw/master/VarianApiBook.pdf](https://github.com/VarianAPIs/VarianAPIs.github.io/raw/master/VarianApiBook.pdf)
