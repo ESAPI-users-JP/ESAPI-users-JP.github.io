@@ -37,4 +37,4 @@
 ### 書籍
 
 - The Varian API Handbook（英語）  
-  [https://github.com/VarianAPIs/VarianAPIs.github.io/raw/master/VarianApiBook.pdf](https://github.com/VarianAPIs/VarianAPIs.github.io/raw/master/VarianApiBook.pdf)
+  [https://varianapis.github.io/VarianApiBook.pdf](https://varianapis.github.io/VarianApiBook.pdf)
