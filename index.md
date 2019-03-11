@@ -4,6 +4,11 @@
 
 治療計画装置Eclipse（Varian Medical Systems社）に搭載されているEclipse Scripting API (ESAPI) についての情報を共有することを目的としています。
 
+## Issues
+
+下記URLにて、ESAPIに関する質問を投稿することが可能です。(GitHubのアカウントが必要です)  
+[https://github.com/ESAPI-users-JP/issues/issues](https://github.com/ESAPI-users-JP/issues/issues)
+
 ## 関連情報
 
 ### Webサイト
