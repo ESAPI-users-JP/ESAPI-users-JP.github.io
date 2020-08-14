@@ -25,7 +25,7 @@
   [https://github.com/rexcardan](https://github.com/rexcardan)
 - Carlos Andersonさんのブログ（英語）  
   [https://www.carlosjanderson.com/category/esapi/](https://www.carlosjanderson.com/category/esapi/)
-- ESAPIに関するReddit（Q&A）ページ（英語）
+- ESAPIに関するReddit（Q&A）ページ（英語）  
   [https://www.reddit.com/r/esapi/](https://www.reddit.com/r/esapi/)
 
 ### 動画
