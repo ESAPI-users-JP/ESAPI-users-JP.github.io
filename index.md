@@ -4,9 +4,17 @@
 
 治療計画装置Eclipse（Varian Medical Systems社）に搭載されているEclipse Scripting API (ESAPI) についての情報を共有することを目的としています。
 
+## 参加する
+
+ESAPIユーザー会への参加（Googleグループ）は以下から可能です。  
+[https://groups.google.com/g/esapi-jp](https://groups.google.com/g/esapi-jp)  
+
+ESAPIに関する疑問や、自作Scriptの紹介など投稿いただくことが可能です。  
+Googleアカウント以外のメールアドレスでのご参加希望は、リンク先よりお問い合わせください。
+
 ## Issues
 
-下記URLにて、ESAPIに関する質問を投稿することが可能です。(GitHubのアカウントが必要です)  
+その他、下記URLにて、ESAPIに関する質問を投稿することが可能です。(GitHubのアカウントが必要です)  
 [https://github.com/ESAPI-users-JP/issues/issues](https://github.com/ESAPI-users-JP/issues/issues)
 
 ## 関連情報
@@ -15,6 +23,8 @@
 
 - ESAPIユーザー会のGitHubページ（本ページ）  
   [https://github.com/ESAPI-users-JP](https://github.com/ESAPI-users-JP)
+- ESAPIユーザー会によるハンズオン2020資料（日本語）  
+  [https://esapi-handson.netlify.app/](https://esapi-handson.netlify.app/)
 - Varian社によるESAPIに関するGitHubページ（英語）  
   [https://github.com/VarianAPIs](https://github.com/VarianAPIs)
 - ユーロメディテック社のGitHubページ（日本語）  
