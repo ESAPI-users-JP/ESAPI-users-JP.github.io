@@ -9,7 +9,7 @@
 ESAPIユーザー会への参加（Googleグループ）は以下から可能です。  
 [https://groups.google.com/g/esapi-jp](https://groups.google.com/g/esapi-jp)  
 
-ESAPIに関する疑問や、自作Scriptの紹介など投稿いただくことが可能です。  
+ESAPIに関する疑問や、自作Scriptの紹介などを投稿いただくことが可能です。  
 Googleアカウント以外のメールアドレスでのご参加希望は、リンク先よりお問い合わせください。
 
 ## Issues
